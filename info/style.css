@@ -1,2 +1,6 @@
 body {color: rgba(1, 1, 66, 0.936);
 background-color: brown;}
+
+h2:hover {background-color: aliceblue;}  
+  a:active {background-color: rgb(4, 110, 54);}
+a:visited {color: yellow;}
